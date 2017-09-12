@@ -1,6 +1,5 @@
 package sesoc.global.c4d;
 
-import static org.hamcrest.CoreMatchers.instanceOf;
 
 import java.util.List;
 
@@ -15,7 +14,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
 import sesoc.global.c4d.dao.CvDAO;
-import sesoc.global.c4d.dao.CvService;
 import sesoc.global.c4d.dao.StatsDAO;
 import sesoc.global.c4d.vo.Career;
 import sesoc.global.c4d.vo.Cv;
